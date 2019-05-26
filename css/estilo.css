@@ -29,9 +29,16 @@ tr, td{
 
 .experiencia{
     margin: 0 auto;
+    margin-bottom: 2%;
     width: 80%;
     height: 80%;
     background-color: white;
     line-height     : 1.5;
     font-size       : 16px;
+}
+
+p{
+    margin: 10px 0 10px;
+    text-align: justify;
+    padding: 12px;
 }
