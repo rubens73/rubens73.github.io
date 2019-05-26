@@ -26,3 +26,12 @@ tr, td{
 #sistemasOperacionais{
     float: left;
 }
+
+.experiencia{
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    line-height     : 1.5;
+    font-size       : 16px;
+}
