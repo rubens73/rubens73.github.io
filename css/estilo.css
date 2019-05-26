@@ -1,46 +1,28 @@
 body{
-    font-family: sans-serif;
+    font-family     : sans-serif;
+    background-color: #64788C;
 }
-header{
-    background: #666;
-    padding: 10px;
+
+nav{
+    font-family: Monospace;
+}
+
+th, td{
     text-align: center;
-    font-size: 10px;
-    color: #eee
 }
 
-div{
+tr, td{
+    background-color: white;
+}
+
+#linguagens{
     float: left;
-    width: 12%;
-    height: -webkit-fill-available;
-    background: #ccc;
-    padding: 20px;
 }
 
-section:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-article {
+#bancoDeDados{
     float: left;
-    padding: 20px;
-    width: 83%;
-    background-color: #f1f1f1;
 }
 
-table tr:nth-child(even) {
-    background-color: #eee;
-}
-table tr:nth-child(odd) {
-   background-color: #fff;
-}
-table th {
-    background-color: black;
-    color: white;
-}
-img{
-    width:230px;
-    height:230px;
+#sistemasOperacionais{
+    float: left;
 }
