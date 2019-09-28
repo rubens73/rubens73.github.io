@@ -47,3 +47,7 @@ h2 {
 span {
   font-size: 15px;
 }
+
+#avatar {
+  width: 180px;
+}
